@@ -2,7 +2,7 @@
 Pick the Pickle is a game about catching pickles and not getting stabbed in the jar by knives. It requires [pyglet][1], which doesn't work on newer versions of OS X, but oh well!!!
 
 # HOW
-Get [pyglet][1], then get download the game by doing something like this:
+Get [pyglet][1], then download the game by doing something like this:
 ```sh
 git clone https://github.com/grampajoe/pickle.git
 ```
@@ -13,7 +13,7 @@ cd pickle
 ./pickle.py
 ```
 
-The objective is to fill jars with pickles before they're broken by the falling knives. Why are there falling knives? I don't know, why are there falling pickles?
+The objective is to fill the jars with pickles before they're broken by the falling knives. Why are there falling knives? I don't know, why are there falling pickles?
 
 # WHY
 Pick the Pickle is an exercise in a few things:
